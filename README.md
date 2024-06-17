@@ -1,1 +1,1 @@
-a project for classifying eating gestures during lunch
+a project for classifying eating gestures during lunch using radar and deeplearning
